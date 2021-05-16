@@ -8,4 +8,6 @@ Some short code for enumerating districts and districting plans. The data origin
 
 A video of all 365 New Mexico plans can be [found here](https://www.youtube.com/watch?v=pMJHDoIK8og). They are also [included in the repo](https://github.com/AustinLBuchanan/District-Enumeration/tree/main/NM-plans).
 
+To speed up the computations, the codes use [vertex orderings](https://github.com/hamidrezavalidi/Political-Districting-to-Minimize-Cut-Edges/blob/master/results/results_for_config-table11-3600-2k/log-file.txt) from a [previous paper](https://github.com/hamidrezavalidi/Political-Districting-to-Minimize-Cut-Edges).
+
 
