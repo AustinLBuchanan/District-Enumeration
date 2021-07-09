@@ -8,7 +8,7 @@ Some short code for enumerating districts and districting plans. The data origin
 
 - [New-Mexico-plan-enumeration-Gurobi.ipynb](https://github.com/AustinLBuchanan/District-Enumeration/blob/main/New-Mexico-plan-enumeration-Gurobi.ipynb) completes the same enumeration task as [New-Mexico-plan-enumeration.ipynb](https://github.com/AustinLBuchanan/District-Enumeration/blob/main/New-Mexico-plan-enumeration.ipynb) but uses the proprietary optimization software Gurobi.
 
-A video of all 365 New Mexico plans can be [found here](https://www.youtube.com/watch?v=pMJHDoIK8og). The video was made with Blender ([tutorial](https://www.youtube.com/watch?v=LmxaYwmewWs)), using the [365 .png plan files](https://github.com/AustinLBuchanan/District-Enumeration/tree/main/NM-plans).
+A video of all 365 New Mexico plans can be [found here](https://www.youtube.com/watch?v=pMJHDoIK8og). The video was made with Blender ([tutorial](https://www.youtube.com/watch?v=LmxaYwmewWs)), using the [365 .png plan files](https://github.com/AustinLBuchanan/District-Enumeration/tree/main/NM-plans). Alternatively, there is [code](https://github.com/AustinLBuchanan/District-Enumeration/blob/main/gif-maker.ipynb) to produce [a gif](https://github.com/AustinLBuchanan/District-Enumeration/blob/main/NM-all-plans.gif).
 
 To speed up the computations, the codes use [vertex orderings](https://github.com/hamidrezavalidi/Political-Districting-to-Minimize-Cut-Edges/blob/master/results/results_for_config-table11-3600-2k/log-file.txt) from a [previous paper](https://github.com/hamidrezavalidi/Political-Districting-to-Minimize-Cut-Edges).
 
